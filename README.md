@@ -1,4 +1,3 @@
-# Perguntas Frequentes - FAQ
 
 * ### Posso acessar o painel pelo smartphone?
     Sim, o AFV 2 foi projetado para uso tanto em desktop quanto em smartphone. 
